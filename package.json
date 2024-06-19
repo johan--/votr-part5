@@ -9,7 +9,7 @@
     "express": "3.0.6",
     "hjs": "0.0.4",
     "twilio": "1.6.0",
-    "socket.io": "0.9.13",
+    "socket.io": "2.5.0",
     "nano": "3.3.6",
     "underscore": "1.4.3",
     "request": "2.12.0",
